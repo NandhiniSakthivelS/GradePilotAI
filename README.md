@@ -8,10 +8,15 @@ The system provides an end-to-end workflow for student performance analysis, rep
 
 ✨ Features
  🤖 AI-powered student performance analysis using Google Gemini AI
+ 
  📊 Personalised academic insights
+ 
  📄 Automated academic report generation
+ 
  ✅ Report review and approval workflow
+ 
  📧 Automated email delivery to parents
+ 
  🔐 Secure user authentication
 
 🛠️ Tech Stack
