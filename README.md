@@ -2,11 +2,10 @@ GradePilot AI 🎓
 
 AI-Powered Academic Performance Analysis & Automated Reporting System
 
-GradePilot AI is an AI-powered academic management system that uses Google Gemini AI to analyse student performance and generate personalised academic insights and reports.
-
-The system provides an end-to-end workflow for student performance analysis, report generation, report approval, and automated email delivery to parents.
+GradePilot AI is an AI-powered academic management system that uses Google Gemini AI to analyse student performance and generate personalised academic insights and reports.The system provides an end-to-end workflow for student performance analysis, report generation, report approval, and automated email delivery to parents.
 
 ✨ Features
+
  🤖 AI-powered student performance analysis using Google Gemini AI
  
  📊 Personalised academic insights
@@ -19,7 +18,9 @@ The system provides an end-to-end workflow for student performance analysis, rep
  
  🔐 Secure user authentication
 
+
 🛠️ Tech Stack
+
 Frontend: React, Vite
 
 Backend: Java, Spring Boot
