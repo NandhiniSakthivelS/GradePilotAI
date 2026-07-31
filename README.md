@@ -16,11 +16,17 @@ The system provides an end-to-end workflow for student performance analysis, rep
 
 🛠️ Tech Stack
 Frontend: React, Vite
+
 Backend: Java, Spring Boot
+
 Database: MySQL
+
 AI: Google Gemini AI
+
 Security: Spring Security, JWT
+
 Reports: iText, Apache POI
+
 Email: Spring Mail
 
 🔄 Workflow
